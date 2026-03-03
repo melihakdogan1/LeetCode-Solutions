@@ -1,7 +1,8 @@
 # 0002 · Add Two Numbers
 
-**Difficulty:** Medium  
-**Topics:** Linked List, Math
+![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Topics: Linked List, Math](https://img.shields.io/badge/Topics-Linked%20List,%20Math-blue)
+[![LeetCode Link](https://img.shields.io/badge/LeetCode-Link-orange)](https://leetcode.com/problems/add-two-numbers/)
 
 ---
 
