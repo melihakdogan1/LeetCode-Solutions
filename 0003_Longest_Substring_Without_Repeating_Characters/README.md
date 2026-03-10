@@ -1,7 +1,8 @@
 # 0003 · Longest Substring Without Repeating Characters
 
-**Difficulty:** Medium  
-**Topics:** String, Sliding Window, Hash Table
+![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Topics: Hash Table, String, Sliding Window](https://img.shields.io/badge/Topics-Hash%20Table,%20String,%20Sliding%20Window-blue)
+[![LeetCode Link](https://img.shields.io/badge/LeetCode-Link-orange)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ---
 
